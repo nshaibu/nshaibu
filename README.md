@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ```
-E = (lambda m, pow:(lambda m, c, pow:m * pow(c, 2))(m, 3 * pow(10, 8), pow))(68.8, lambda d,e:d**e)
+E = (lambda m, pow:(lambda m, c, pow:m * pow(c, 2))(m, 3 * pow(10, 8), pow))(68.8, lambda d, e:d**e)
 ```
