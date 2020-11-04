@@ -23,7 +23,7 @@ E = (lambda m, pow:(lambda m, c, pow:m*pow(c, 2))(m, 3*pow(10, 8), pow))(68.8, l
   <summary> More things </summary>
   <br>
     <p>
-        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
+        <a href= "https://github.com/nshaibu/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nshaibu&layout=compact" /></a>
     </p>
 </details>
 
