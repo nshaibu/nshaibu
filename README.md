@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 ```
 E = (lambda m, pow:(lambda m, c, pow:m*pow(c, 2))(m, 3*pow(10, 8), pow))(68.8, lambda d, e:d**e)
 ```
-
+<!--
 <p align="center">
   <a href= "https://github.com/nshaibu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=nshaibu&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
-
+-->
+<!--
 <details>
   <summary> More things </summary>
   <br>
@@ -32,5 +33,6 @@ E = (lambda m, pow:(lambda m, c, pow:m*pow(c, 2))(m, 3*pow(10, 8), pow))(68.8, l
         <a href= "https://github.com/nshaibu/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nshaibu&layout=compact" /></a>
     </p>
 </details>
+-->
 
 
